@@ -1,0 +1,137 @@
+body{
+    margin: 0 auto;
+    background-color: #034E86;
+}
+
+.iotyr-p{
+    width: 250px;
+    height: 200px;
+    position: relative;
+    background-color: rgba(255, 255, 255, .05);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(4px);
+    border-radius: 10px;
+    color: beige;
+    letter-spacing: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.iotyr-titulo,
+.iotyr-article,
+.iotyr-subtitulo-1{
+    margin: 0 auto;
+    color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0 20px 0;
+}
+
+.s3-1{
+    height: 140px;
+    margin: 10px 0 0 1%;
+}
+.s3-2{
+    height: 150px;
+    margin: -30px 0 0 31%;
+}
+.s3-3{
+    z-index: 1;
+    height: 110px;
+    margin: -10px 0 0 -9%;
+}
+
+.img-iotyr{
+    z-index: 0;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    position: relative;
+    animation: move-up 2s ease-in infinite alternate-reverse;
+    margin-left: 40%;
+    margin-top: -20px;
+}
+
+@keyframes move-up{
+    to{
+        transform: translateY(-10px);
+    }
+}
+
+@keyframes move-down{
+    to{
+        transform: translateY(10px);
+    }
+}
+
+.s3-4{
+    height: 150px;
+    margin: -25px 0 0 1%;
+}
+.s3-5{
+    height: 160px;
+    margin: -5px 0 0 39%;
+}
+.s3-6{
+    height: 170px;
+    margin: -10px 0 0 1%;
+}
+.s3-7{
+    height: 200px;
+    margin: -20px 0 0 39%;
+    z-index: 1;
+}
+
+.img-iotyr-2{
+    z-index: 0;
+    margin: 0 0 0 5%;
+}
+
+.s3-8{
+    height: 160px;
+    margin: -30px 0 0 32%;
+}
+
+.s3-9{
+    height: 140px;
+    margin: -10px 0 0 -9%;
+}
+
+.s3-10{
+    height: 180px;
+    margin: -10px 0 0 29%;
+}
+
+.s3-11{
+    height: 150px;
+    margin: -10px 0 0 -9%;
+}
+
+.s3-12{
+    width: 50%;
+    height: 90px;
+    margin: -10px 0 0 48%;
+    z-index: 1;
+}
+
+.img-iotyr-3{
+    z-index: 0;
+    margin: 0 0 0 5%;
+}
+
+.s3-13{
+    height: 265px;
+    margin: -30px 0 0 29%;
+}
+
+.s3-14{
+    height: 140px;
+    margin: -10px 0 0 -9%;
+}
+
+.s3-15{
+    height: 180px;
+    margin: -10px 0 0 29%;
+}
