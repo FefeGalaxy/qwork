@@ -2,7 +2,7 @@ function headerContent(e){
     const headerE = document.createElement("div");
     headerE.innerHTML = `
     <header class="header">
-    <img loading="lazy" class="section-1_contenido_img" src="/imgs/qworktitulo1.png" alt="">
+    <img class="section-1_contenido_img" src="./imgs/qworktitulo1.png" alt="">
     <div class="header_burger">
         <div class="barras1"></div>
         <div class="barras2"></div>
