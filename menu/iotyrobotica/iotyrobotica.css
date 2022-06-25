@@ -30,17 +30,17 @@ body{
 }
 
 .s3-1{
-    height: 140px;
-    margin: 10px 0 0 1%;
+    height: 170px;
+    margin: 10px 0 0 5%;
 }
 .s3-2{
-    height: 150px;
-    margin: -30px 0 0 31%;
+    height: 190px;
+    margin: 10px 0 0 27%;
 }
 .s3-3{
     z-index: 1;
-    height: 110px;
-    margin: -10px 0 0 -9%;
+    height: 150px;
+    margin: 10px 0 0 -5%;
 }
 
 .img-iotyr{
@@ -51,7 +51,7 @@ body{
     position: relative;
     animation: move-up 2s ease-in infinite alternate-reverse;
     margin-left: 40%;
-    margin-top: -20px;
+    margin-top: 10px;
 }
 
 @keyframes move-up{
@@ -67,71 +67,71 @@ body{
 }
 
 .s3-4{
-    height: 150px;
-    margin: -25px 0 0 1%;
+    height: 210px;
+    margin: 10px 0 0 5%;
 }
 .s3-5{
-    height: 160px;
-    margin: -5px 0 0 39%;
+    height: 210px;
+    margin: 10px 0 0 33%;
 }
 .s3-6{
-    height: 170px;
-    margin: -10px 0 0 1%;
+    height: 210px;
+    margin: 10px 0 0 5%;
 }
 .s3-7{
-    height: 200px;
-    margin: -20px 0 0 39%;
+    height: 260px;
+    margin: 10px 0 0 33%;
     z-index: 1;
 }
 
 .img-iotyr-2{
     z-index: 0;
-    margin: 0 0 0 5%;
+    margin: 10px 0 0 5%;
 }
 
 .s3-8{
-    height: 160px;
-    margin: -30px 0 0 32%;
+    height: 210px;
+    margin: 10px 0 0 27%;
 }
 
 .s3-9{
-    height: 140px;
-    margin: -10px 0 0 -9%;
+    height: 200px;
+    margin: 10px 0 0 -5%;
 }
 
 .s3-10{
-    height: 180px;
-    margin: -10px 0 0 29%;
+    height: 230px;
+    margin: 10px 0 0 27%;
 }
 
 .s3-11{
-    height: 150px;
-    margin: -10px 0 0 -9%;
+    height: 210px;
+    margin: 10px 0 0 -5%;
 }
 
 .s3-12{
     width: 50%;
-    height: 90px;
-    margin: -10px 0 0 48%;
+    height: 130px;
+    margin: 10px 0 0 45%;
     z-index: 1;
 }
 
 .img-iotyr-3{
     z-index: 0;
-    margin: 0 0 0 5%;
+    margin: 10px 0 0 5%;
 }
 
 .s3-13{
-    height: 265px;
-    margin: -30px 0 0 29%;
+    height: 320px;
+    margin: 10px 0 0 25%;
 }
 
 .s3-14{
-    height: 140px;
-    margin: -10px 0 0 -9%;
+    height: 200px;
+    margin: 10px 0 0 -5%;
 }
 
 .s3-15{
-    height: 180px;
-    margin: -10px 0 0 29%;
+    height: 230px;
+    margin: 10px 0 0 25%;
 }

@@ -24,7 +24,7 @@ body{
     position: relative;
     animation: move-up 2s ease-in infinite alternate-reverse;
     margin-left: 40%;
-    margin-top: -20px;
+    margin-top: 10px;
 }
 
 @keyframes move-up{
@@ -55,20 +55,20 @@ body{
 }
 
 .s4-1{
-    height: 340px;
-    margin: 30px 0 0 1%;
+    height: 380px;
+    margin: 10px 0 0 5%;
 }
 .s4-2{
-    height: 130px;
-    margin: -20px 0 0 38%;
+    height: 180px;
+    margin: 10px 0 0 35%;
 }
 .s4-3{
-    height: 330px;
-    margin: -10px 0 0 1%;
+    height: 400px;
+    margin: 10px 0 0 5%;
 }
 .s4-4{
-    height: 180px;
-    margin: -20px 0 0 38%;
+    height: 240px;
+    margin: 10px 0 0 35%;
 }
 
 .img-cloudpos-1{
@@ -78,22 +78,18 @@ body{
 .s4-5{
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
-    height: 250px;
-    margin: 30px 0 0 1%;
+    height: 350px;
+    margin: 10px 0 0 5%;
 }
 .s4-6{
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
-    height: 250px;
-    margin: 30px 0 0 28%;
+    height: 350px;
+    margin: 10px 0 0 25%;
 }
 .s4-7{
-    height: 130px;
-    margin: 30px 0 0 1%;
+    height: 170px;
+    margin: 10px 0 0 5%;
 }
 
 .img-cloudpos-2{
@@ -110,34 +106,34 @@ body{
 }
 
 .s4-8{
-    height: 180px;
-    margin: 30px 0 0 1%;
+    height: 240px;
+    margin: 10px 0 0 5%;
 }
 .s4-9{
-    height: 130px;
-    margin: 30px 0 0 38%;
+    height: 160px;
+    margin:10px 0 0 35%;
 }
 .s4-10{
-    height: 110px;
-    margin: 30px 0 0 1%;
+    height: 160px;
+    margin: 10px 0 0 5%;
 }
 .s4-11{
-    height: 70px;
-    margin: 30px 0 0 1%;
+    height: 120px;
+    margin: 10px 0 0 5%;
 }
 .s4-12{
-    height: 230px;
-    margin: 30px 0 0 38%;
+    height: 280px;
+    margin: 10px 0 0 35%;
 }
 .s4-13{
-    height: 130px;
-    margin: 30px 0 0 1%;
+    height: 170px;
+    margin: 10px 0 0 5%;
 }
 .s4-14{
-    height: 110px;
-    margin: 30px 0 0 38%;
+    height: 160px;
+    margin: 10px 0 0 35%;
 }
 .s4-15{
-    height: 130px;
-    margin: 25px 0 0 1%;
+    height: 170px;
+    margin: 10px 0 0 5%;
 }

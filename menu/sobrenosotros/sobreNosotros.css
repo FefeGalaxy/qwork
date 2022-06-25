@@ -33,18 +33,18 @@ body{
 }
 
 .s1{
-    height: 110px;
-    margin: -100px 0 0 1%;
+    height: 130px;
+    margin: -100px 0 0 3%;
 }
 .s2{
-    height: 140px;
-    margin: -10px 0 0 39%;
+    height: 150px;
+    margin: 10px 0 0 35%;
 }
 
 .s3{
     z-index: 1;
-    height: 150px;
-    margin: -10px 0 0 1%;
+    height: 160px;
+    margin: 10px 0 0 3%;
 }
 
 .img-sobren{
@@ -55,7 +55,7 @@ body{
     position: relative;
     animation: move-up 2s ease-in infinite alternate-reverse;
     margin-left: 40%;
-    margin-top: -20px;
+    margin-top: 10px;
 }
 
 @keyframes move-up{
@@ -71,18 +71,18 @@ body{
 }
 
 .s4{
-    height: 160px;
-    margin: 0 0 0 0;
+    height: 190px;
+    margin: 10px 0 0 3%;
 }
 
 .s5{
-    height: 140px;
-    margin: -5px 0 0 39%;
+    height: 170px;
+    margin: 10px 0 0 35%;
 }
 
 .s6{
-    height: 140px;
-    margin: -5px 0 0 1%;
+    height: 170px;
+    margin: 10px 0 0 3%;
     z-index: 1;
 }
 
@@ -91,23 +91,23 @@ body{
 }
 
 .s7{
-    height: 120px;
+    height: 150px;
     width: 170px;
     margin: -190px 0 0 -9%;
 }
 .s8{
-    height: 120px;
+    height: 150px;
     width: 170px;
     margin: 10px 0 0 -9%;
 }
 .s9{
-    height: 140px;
+    height: 170px;
     width: 170px;
     margin: 10px 0 0 -9%;
 }
 
 .s10{
-    height: 130px;
-    width: 100%;
-    margin: 0 0 0 0;
+    height: 140px;
+    width: 90%;
+    margin: 0 5% 0 5%;
 }
